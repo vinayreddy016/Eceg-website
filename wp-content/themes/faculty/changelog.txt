@@ -1,0 +1,250 @@
+- v1.0 -- 11 February 14
+    -initial release
+
+- v1.2 -- 13 February 14
+    - Menu ajax pages fixed
+    - Ajax-disabled publication and gallery templates fixed
+    - Documentation updated
+
+-v1.3 -- 17 February 14
+	- thumbnail.png changed
+	- facebook share fixed
+	- twitter sahre added
+	- some color options fixed
+	- po file updated
+	- added thumnails to blog list (optional)
+
+- v1.4 -- 25 February 14
+	
+	** CAUTION ** back-up your project descriptions first, after update to 1.4 you will have to re-fill project descriptions
+
+	- documentation updated
+	- stellar.js depricated and removed
+	- sidebar responsive bug fixed
+	- analytics code fixed
+	- publications upload button bug fixed
+	- visual composer : image for single award is optional now
+	- visual composer : year filed for single position is optional now
+	- visual composer : lab carousle's link is optional now
+	- visual composer : lab carousel's hyperlink text is configurable now
+	- visual composer : single project bug is fixed and now accepts images and hyperlinks as well
+
+- v1.5 -- 27 March 14
+	- publication drop-down is fixed.
+	- publications sort by date, fixed.
+	- multiple category for publications, fixed.
+	- alternative filter layout added to publications page. You can switch between layouts from theme options now. 
+	- publication details (content) can be empty now.
+	- added alternative compact layout for publications. You can switch between layouts from theme options now.
+	- preset filtering on page load of publications added.
+	- awwards accordion bug fixed.
+	- visual composer plugin updated ~ default project image will be used if no image is selected.
+	- blog single sidebar bug fixed.
+	- Now you can choose if you want to load blog post via ajax or nor via theme options.
+	- social icons black-box fixed.
+	- 10 social icons available now.
+	- added copyright text as a theme option. 
+	- sidebar picture is linked to homepage.
+	- fancy scrollbars are now optional you can enable/disable it.
+	- circle wrap around the profile picture is optional now.
+
+- v2.0 -- 09 May 14
+	
+	** NOTICE ** please read the documentation before update
+	
+	- Update for wp 3.9
+	- Child theme compatibility fixed
+	- Added a child theme structure to the package
+	- Added submenu
+	- Added an option to hide/unhide the profile picture (logo) for mobile devices
+	- Added some extera text size and color as theme options
+	- Social icons bug fix for new tab
+	- Added ordering feature for publications
+	- Added counts for each publication type
+	- Added HTML editor for shortcodes (awards,interests,positions)
+	- Enhanced blog layout for mobile devices
+	- Lab carousel now support less that 4 items
+
+- v2.0.1 -- 09 May 14
+
+	- quick fix at function.php file missed at v2.0.0
+
+
+- v.3.0 -- 01 Sep 14
+	
+	- Added WPML compatibility 
+	- Added a page-template with wigetized sidebar
+	- Added unlimited sidebars capability through theme options
+	- Updated Visual Composer to latest Version
+	- Added New shortcodes to Visual Composer
+	- Added TGM support; now all required plugins will be installed automatically
+	- Added new theme options
+	- Fixed present filtering on publications
+	- Fixed in-line styles of visual composer for ajax pages
+	- Fixed some minor bugs reported by customers
+	- Documentation updated
+	- Removed perfect scroll bar and now theme is using nicescroll jQuery plugin
+	- Added Search result page 
+
+- v.3.1.0 -- 03 sep 14
+
+	- Fixed Blog ajax minor bug
+	- Fixed skillbars
+	- Fixed fancy scrollbars
+
+- v.3.1.1 -- 9 sep 14
+	
+	- Fixed list-icon shortcode
+	- Fixed interests shortcode
+	- Added admin bar to front-end
+	- Updated the layout of blog sidebar
+
+- v.3.1.3 -- 02 oct 14
+	- added color option for publication types label color
+	- added multiple instance ability for lab carousel
+
+
+- v 3.1.4 -- 07 dec 14
+	- Fixed blog index ajax bug
+	- Fixed blog navigation bug on single pages
+	- Added Google Fonts to theme options
+	- Fixed scroll based animations in ajaxed pages
+
+- v 3.1.5 -- 01 Jan 15
+	- Updated Visual composer to v 3.4.5
+
+- v 3.2 -- 20 Feb 15
+	- Updated visual composer to 4.4.2
+	- Fixed blog categories and tags page
+	- Fixed order by year for publications
+	- Fixed file removal at publications
+	- Added Github to social icons
+
+- v 3.3 
+	- Updated TGM, for security
+	- Updated OptionTree for security
+	- Updated Visual Composer to 4.5
+	- Added: Pagination for publications
+	- Added: Featured Image for publications thumbnails
+	- Improved: projects are not toggle-able if they have no content
+	- Fixed: blog categories fist post 
+	- Fixed: vc twitter js 
+	- Fixed some texts which were not translatable.
+	- Fixed: mobile menu width
+
+- V 3.3.1 — 5 MAY 15
+
+	- Added demo 2 : http://owwwlab.com/wp-faculty-2/
+	- Added a child theme for demo2 to package
+	- Added sample XML data for demo2 to package
+
+- V 3.4.0 — 26 JUNE 15
+
+	- Updated Visual Composer Plugin to 4.5.3 
+	- Updated PrettyPhoto for security 
+	- Fixed Responsive Single Images 
+	- Improved Sidebar Menu at Mobile devices 
+	- Fixed side-to-side scroll of pages 
+	- Updated Documentation file
+
+- V 3.5.2 — 31 July 15
+
+	- Updated Visual Composer Plugin to 4.6.2 
+	- Added Envato Theme Updater
+	- Updated Documentation file
+	- Fixed Pagination at single blog posts
+	- Minor fixes
+
+- V 3.5.3 — 09 Oct 15
+
+	- Updated Visual Composer Plugin to 4.7.4 
+	- Fixed Default publiucations ordering
+	- Fixed Sidebar footer theme option
+
+- V 3.5.4 — 01 Feb 16
+
+	- Updated Visual Composer Plugin to 4.9.2 
+	- Compatibility with WP4.4
+	- Fixed a bug when Education level was empty
+
+- V 3.6.0  — 21 APR 16
+	
+	- Updated Visual Composer Plugin to 4.11.2.1
+	- Compatiblilty with WP 4.5
+	- Updated screenshot
+	- Added academicons to visual composer https://jpswalsh.github.io/academicons/
+	- Added google scholar social icon to theme options
+	- Fixed some minor issues with elements
+	- Updated Documentation file
+
+- V 3.7.0  — 11 July 16
+	
+	- Compatibility with WordPress 4.5.3
+	- Updated Visual composer Plugin to v4.12.0
+	- Updated Optiontree to v2.6.0
+	- Updated Font-Awesome to v4.6.3
+	- Updated Magnific Popup to v1.1.0
+	- Updated Academicicons
+	- Fixed Ajax problem
+	- Fixed some minor issues
+
+- V 3.8.0  — 17 September 16
+	
+	- Compatibility with WordPress 4.6.1
+	- Updated Visual composer Plugin to v4.12.1
+	- Added Publication single page
+	- Added a new Publications Element to Visual Composer
+	- Fixed some minor issues
+
+- V 3.8.3 — 24 September 16
+	
+	- Allows HTML tags at publication title and citation
+	- Added year field to publication single page
+	- Fixed some minor issues and some improvements on elements
+	- Updates TGMPA to v 2.6.1
+
+
+
+- V 3.9.0 – 12 JAN 17
+
+	- Compatibility with WordPress 4.7 
+	- Updated Visual Composer Plugin to v 5.0.1 
+	- Updated Option tree plugin to 2.6.0 
+	- Updated TGMPA to 2.6.1 
+	- Added featured image for pages 
+	- Added Sidebar background image at theme options > Miscellaneous 
+	- Added Publication header image at theme options 
+	- Added Link option for education element 
+	- Added Link option for position element 
+	- Fixed publication link issue 
+	- Fixed mobile menu   
+
+- V 3.10.0 
+	- Compatibility with WordPress 4.8
+	- Updated Visual composer Plugin to v5.1.1
+	- Removed the depricated automatic theme updater and added the Envato Market Plugin. From now on, you can use this plugin to auto-update faculty theme.
+	- Fixes a bug regarding publication ordering 
+	- Adds description to lab carousel element
+
+- V 3.11.1 
+	- Compatibility with WordPress 4.8.1
+	- Updated Visual composer Plugin to v5.2.1
+	- Publication single page won't show the thumbnail if there is no featured image for it. 
+	- Fixed some minor bugs
+
+- V 3.12.0
+	- Compatibility with WordPress 4.8.2
+	- Updated Visual composer Plugin to v5.4.2
+	- Added new ordering settings for publication vc shortcode 
+
+- V 3.13.0
+	- Compatibility with WordPress 4.9
+	- Updated Visual composer Plugin to v5.4.4
+
+- V 3.14.0
+	- Compatibility with WordPress 4.9.5
+	- Updated Visual composer Plugin to v5.4.7
+	- Fixed minor bugs 
+
+
+	
